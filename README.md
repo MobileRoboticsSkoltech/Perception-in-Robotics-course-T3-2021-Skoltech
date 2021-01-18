@@ -7,7 +7,7 @@ This repository includes all material used during the course: Class notes, unedi
 > * Instructor: Gonzalo Ferrer
 > * Teaching Assistant: Marzel Faizullin
 > * Teaching Assistant: Konstantin Pakulev
-> * [OFFICIAL Telegram channel with TAs](TODO)
+> * [OFFICIAL Telegram channel with TAs](https://t.me/perc_rob_20_21)
 
 For the logistics, this course will be taught in hybrid mode, that is, the student will watch the corresponding class in advance (video) and then other related activities will happen, such as Q&A, seminars and small exercises to strengthen the learning experience.
 
