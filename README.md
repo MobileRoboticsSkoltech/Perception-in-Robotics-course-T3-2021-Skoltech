@@ -14,10 +14,10 @@ For the logistics, this course will be taught in hybrid mode, that is, the stude
 We will use the classes recorded from the last year (see our previous [class](https://github.com/MobileRoboticsSkoltech/Skoltech-Perception-in-Robotics-T3-2019-2020)) and we have redesigned the related material to each class for general discussion, such as exercises and further explanation of the methods discussed.
 
 
-### [Link to the YouTube channel with video lectures](TODO)
+### [Link to the YouTube channel with video lectures](https://www.youtube.com/playlist?list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT)
 
  * [L01: The Expectation Operator](https://www.youtube.com/watch?v=0y63AnAhD8k&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=1)
- * [L02: Gaussians]()
+ * [L02: Gaussians](https://www.youtube.com/watch?v=ja7VCtiyKps&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=2)
  * [L03: Gaussian II]()
  * [L04: Bayes Filter and Kalman Filter]()
  * [L05: Motion and Sensor Models]()
