@@ -18,16 +18,16 @@ We will use the classes recorded from the last year (see our previous [class](ht
 
  * [L01: The Expectation Operator](https://www.youtube.com/watch?v=0y63AnAhD8k&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=1)
  * [L02: Gaussians](https://www.youtube.com/watch?v=ja7VCtiyKps&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=2)
- * [L03: Gaussian II]()
- * [L04: Bayes Filter and Kalman Filter]()
- * [L05: Motion and Sensor Models]()
- * [L06: EKF and Localization]()
- * [L07: Particle Filter and Monte-Carlo Localization]()
- * [L08: EKF SLAM with known correspondences]()
- * [L09: Data Association]()
- * [L10: Smoothing and Mapping (SAM), GraphSLAM]()
- * [L11: Squared Root SAM]()
- * [L12: Incremental SAM and Pose SLAM]()
+ * [L03: Gaussian II](https://www.youtube.com/watch?v=3XvHDKRzAs8&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=3)
+ * [L04: Bayes Filter and Kalman Filter](https://www.youtube.com/watch?v=9ckoViG3pYE&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=4)
+ * [L05: Motion and Sensor Models](https://www.youtube.com/watch?v=vd5n0Q27eVg&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=5)
+ * [L06: EKF and Localization](https://www.youtube.com/watch?v=2Idz_08NYKc&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=6)
+ * [L07: Particle Filter and Monte-Carlo Localization](https://www.youtube.com/watch?v=KBoSaTghjeg&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=7)
+ * [L08: EKF SLAM with known correspondences](https://www.youtube.com/watch?v=w7XaxW-dIbI&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=8)
+ * [L09: Data Association](https://www.youtube.com/watch?v=wHRvTW6NJEs&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=9)
+ * [L10: Smoothing and Mapping (SAM), GraphSLAM](https://www.youtube.com/watch?v=q8_LQLLekWs&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=10)
+ * [L11: Squared Root SAM](https://www.youtube.com/watch?v=7jGpjXLEID8&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=11)
+ * [L12: Incremental SAM and Pose SLAM](https://www.youtube.com/watch?v=8xAnN6ae9Sk&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=12)
  * L13: 3D Poses and RBT
  * L14: Point Cloud Aligment
  * L15: Mapping
