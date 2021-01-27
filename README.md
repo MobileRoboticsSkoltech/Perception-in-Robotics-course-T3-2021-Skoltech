@@ -11,6 +11,9 @@ This repository includes all material used during the course: Class notes, unedi
 
 For the logistics, this course will be taught in hybrid mode, that is, the student will watch the corresponding class in advance (video) and then other related activities will happen, such as Q&A, seminars and small exercises to strengthen the learning experience.
 
+
+For each lecture, all material will be included in the folder `L*`, and you will find the class notes, the handwritten notes as a result of the class and a short exercise we will do in class. We recommend you to print the class notes and we **strongly recommend** to write your own notes on the printed document while following the video class.
+
 We will use the classes recorded from the last year (see our previous [class](https://github.com/MobileRoboticsSkoltech/Skoltech-Perception-in-Robotics-T3-2019-2020)) and we have redesigned the related material to each class for general discussion, such as exercises and further explanation of the methods discussed.
 
 
@@ -29,7 +32,7 @@ We will use the classes recorded from the last year (see our previous [class](ht
  * [L11: Squared Root SAM](https://www.youtube.com/watch?v=7jGpjXLEID8&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=11)
  * [L12: Incremental SAM and Pose SLAM](https://www.youtube.com/watch?v=8xAnN6ae9Sk&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=12)
  * L13: 3D Poses and RBT
- * L14: Point Cloud Aligment
+ * L14: Point Cloud Alignment
  * L15: Mapping
  * L16: Visual SLAM
 
@@ -39,7 +42,7 @@ We will use the classes recorded from the last year (see our previous [class](ht
 
 ## Problem Sets
 
-Deadline dates for submitting problem sets, in the folder `PS`:
+Deadline dates for submitting problem sets, in the folder `PS*`:
 
  * 14-Feb-2021, PS1: Gaussians and Visualization 
  * 28-Feb-2021, PS2: Localization
