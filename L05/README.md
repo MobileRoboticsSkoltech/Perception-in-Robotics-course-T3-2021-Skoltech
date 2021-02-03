@@ -1,4 +1,4 @@
-# Lecture 04: Bayes filter and Kalman filter
+# Lecture 05: Motion and sensor model
 
 
 Topics in [lecture 05](https://www.youtube.com/watch?v=vd5n0Q27eVg&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=5) include:
@@ -13,4 +13,4 @@ Topics in [lecture 05](https://www.youtube.com/watch?v=vd5n0Q27eVg&list=PLRXYrdE
  * 2D RBT 1:57:24
  * Sensor model 2:20:10
  
-Recommended reading: Probabilistic Robotics Ch5
+Recommended reading: ProbRob Ch5
