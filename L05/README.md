@@ -14,3 +14,4 @@ Topics in [lecture 05](https://www.youtube.com/watch?v=vd5n0Q27eVg&list=PLRXYrdE
  * Sensor model 2:20:10
  
 Recommended reading: ProbRob Ch5
+More material in Lavalle's book ch 13 (in canvas)
