@@ -8,3 +8,5 @@ Topics in [Lecture 6](https://www.youtube.com/watch?v=2Idz_08NYKc&list=PLRXYrdEU
  * EKF localization
  
 Recommended reading: ProbRob Ch 7
+
+Extra reading: handnotes about Unscented KF and Information KF.
