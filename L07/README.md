@@ -1,4 +1,4 @@
-# Lecture 06: EKF and Localization
+# Lecture 07: Particle Filter
 
 
 Topics in [Lecture 7](https://www.youtube.com/watch?v=KBoSaTghjeg&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=7) include:
