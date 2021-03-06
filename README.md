@@ -5,7 +5,7 @@ About us: we are the [Mobile robotics Lab.](https://sites.skoltech.ru/mobilerobo
 This repository includes all material used during the course: Class notes, unedited videos of the lectures and problem sets.
 
 > * Instructor: Gonzalo Ferrer
-> * Teaching Assistant: Marzel Faizullin
+> * Teaching Assistant: Marsel Faizullin
 > * Teaching Assistant: Konstantin Pakulev
 > * [OFFICIAL Telegram channel with TAs](https://t.me/perc_rob_20_21)
 
