@@ -19,7 +19,7 @@ class Sam(SlamBase):
         self.action_dim = action_dim
         self.alphas = alphas
         
-        self.graph = mrob.Fgraph()
+        self.graph = mrob.FGraph()
         
 
     def predict(self, u):
