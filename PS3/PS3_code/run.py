@@ -119,7 +119,7 @@ def validate_cli_args(args):
 def main():
     args = get_cli_args()
     validate_cli_args(args)
-    alphas = np.array(args.alphas)
+    alphas = np.array(args.alphas) ** 2
     beta = np.array(args.beta)
 
 
