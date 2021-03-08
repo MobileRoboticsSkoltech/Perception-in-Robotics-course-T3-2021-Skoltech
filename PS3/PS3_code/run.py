@@ -121,6 +121,7 @@ def main():
     validate_cli_args(args)
     alphas = np.array(args.alphas) ** 2
     beta = np.array(args.beta)
+    beta[1] = np.deg2rad(beta[1])
 
 
     mean_prior = np.array([180., 50., 0.])

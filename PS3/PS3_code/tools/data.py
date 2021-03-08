@@ -155,9 +155,6 @@ def generate_data(initial_pose,
     field_map = FieldMap(num_landmarks_per_side)
 
     # Covariance of observation noise.
-    alphas = alphas ** 2
-    beta = np.array(beta)
-    beta[1] = np.deg2rad(beta[1])
     Q = np.diag([*(beta ** 2), 0])
 
     for i in range(1, data_length):
