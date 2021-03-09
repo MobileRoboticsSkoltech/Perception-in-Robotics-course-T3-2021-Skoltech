@@ -31,7 +31,8 @@ We will use the classes recorded from the last year (see our previous [class](ht
  * [L10: Smoothing and Mapping (SAM), GraphSLAM](https://www.youtube.com/watch?v=q8_LQLLekWs&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=10)
  * [L11: Squared Root SAM](https://www.youtube.com/watch?v=7jGpjXLEID8&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=11)
  * [L12: Incremental SAM and Pose SLAM](https://www.youtube.com/watch?v=8xAnN6ae9Sk&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=12)
- * L13: 3D Poses and RBT
+ * [L13: 3D Poses and Rigid Body Transformations](https://www.youtube.com/watch?v=h-A8x10JKNI&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=14)
+ * [L13b: Differentiation over SE3](https://www.youtube.com/watch?v=FkVET_3AJ7o&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=15)
  * L14: Point Cloud Alignment
  * L15: Mapping
  * L16: Visual SLAM
