@@ -33,9 +33,10 @@ We will use the classes recorded from the last year (see our previous [class](ht
  * [L12: Incremental SAM and Pose SLAM](https://www.youtube.com/watch?v=8xAnN6ae9Sk&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=12)
  * [L13: 3D Poses and Rigid Body Transformations](https://www.youtube.com/watch?v=h-A8x10JKNI&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=14)
  * [L13b: Differentiation over SE3](https://www.youtube.com/watch?v=FkVET_3AJ7o&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=15)
- * L14: Point Cloud Alignment
- * L15: Mapping
- * L16: Visual SLAM
+ * [L14: Optimization on SE3](https://www.youtube.com/watch?v=kOUKad7B3As&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=15)
+ * [L14: Point Cloud Alignment](https://www.youtube.com/watch?v=m5KJvI0oR-8&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=16)
+ * [L15: Mapping](https://www.youtube.com/watch?v=ej67GPM-Wmg&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=17)
+ * [L16: Introduction to Visual SLAM](https://www.youtube.com/watch?v=6jYEoY51tnM&list=PLRXYrdEUvBoBCjYdmuDqohvSTJIPPrBUT&index=18)
 
 
 
@@ -63,6 +64,7 @@ Logistics:
 
  * Ideally 3 students per project (the scope of multi-body projects must be commensurate).
  * Proposal: 1 page description of project + goals for milestone. This document describes the initial proposal and viability of the project.
- * Progress: 3 page milestone due. You are not graded on the milestone. Think of it as a sanity check for yourself that you indeed have started to make progress on the project and an opportunity to get feedback on your progress thus far, as well as on any revisions you might have made to your project goals.• Presentations: The presentation needs to be 12 minutes long; There will be a maximum of 3 minutes for questions after the presentation.If your presentation lasts more than 12 minutes, it will be stopped. So please make sure the presentation does not go over.
- *Paper: This should be a IEEE conference style paper, i.e., focus on the problem setting, why it matters and what is interesting/novel about it, your approach, your results, analysis of results, limitations, future directions.Cite and briefly survey prior work as appropriate but do not re-write prior work when not directly relevant to understand your approach.
+ * Progress: 3 page milestone due. You are not graded on the milestone. Think of it as a sanity check for yourself that you indeed have started to make progress on the project and an opportunity to get feedback on your progress thus far, as well as on any revisions you might have made to your project goals.
+ * Presentations: The presentation needs to be 12 minutes long; There will be a maximum of 3 minutes for questions after the presentation.If your presentation lasts more than 12 minutes, it will be stopped. So please make sure the presentation does not go over.
+ * Paper: This should be a IEEE conference style paper, i.e., focus on the problem setting, why it matters and what is interesting/novel about it, your approach, your results, analysis of results, limitations, future directions.Cite and briefly survey prior work as appropriate but do not re-write prior work when not directly relevant to understand your approach.
  * Evaluation: Each team will evaluate their colleagues’ presentations.Templates will be provided the presentation day. All these points will be summed for a final evaluation (30% of the total grade).
