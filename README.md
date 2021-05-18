@@ -68,3 +68,16 @@ Logistics:
  * Presentations: The presentation needs to be 12 minutes long; There will be a maximum of 3 minutes for questions after the presentation.If your presentation lasts more than 12 minutes, it will be stopped. So please make sure the presentation does not go over.
  * Paper: This should be a IEEE conference style paper, i.e., focus on the problem setting, why it matters and what is interesting/novel about it, your approach, your results, analysis of results, limitations, future directions.Cite and briefly survey prior work as appropriate but do not re-write prior work when not directly relevant to understand your approach.
  * Evaluation: Each team will evaluate their colleagues’ presentations.Templates will be provided the presentation day. All these points will be summed for a final evaluation (30% of the total grade).
+
+
+
+## Reference
+
+```
+@Misc{ferrer2021,
+  author = {Gonzalo Ferrer},
+  title = {Lectures on Perception in Robotics},
+  howpublished = {\url{https://github.com/MobileRoboticsSkoltech/Perception-in-Robotics-course-T3-2021-Skoltech}},
+  year = {2021}
+}
+```
